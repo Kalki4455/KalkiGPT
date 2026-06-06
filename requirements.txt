@@ -1,1 +1,6 @@
-pip freeze > requirements.txt
+streamlit
+google-generativeai
+python-dotenv
+pypdf
+SpeechRecognition
+pyttsx3
